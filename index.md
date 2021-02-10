@@ -15,6 +15,20 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+Seja $z\in \mathbb{C}$, denotaremos por $x=Re(z)$ e $y=Im(z)$. O complexo conjugando de $z$ é o número complexo $\overline{z}=x-iy \in \mathbb{C}$.
+
+\noindent Uma primeira propriedade é que $|z|=|\overline{z}|$ e $Arg(\overline{z})=-Arg(z)$ para $z\notin \mathbb{R}$ e $Arg(\overline{z})=Arg(z)$ se $z\in \mathbb{R}$, pois no último caso $z=\bar{z}$. \\ 
+%Ver Figura \ref{fig:conjugado}.
+
+\begin{figure}[hhtp]
+    \centering
+    \includegraphics[width=12cm]{conjugado.jpg}
+    \caption{$z$ e $\overline{z}$ no plano complexo.}
+    \label{fig:conjugado}
+    
+\end{figure}
+
+
 - Bulleted
 - List
 
